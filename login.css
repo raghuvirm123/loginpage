@@ -1,0 +1,122 @@
+
+body{
+  background-image: url(https://freedesignfile.com/upload/2016/10/abstract-crystal-background-HD-picture-03.jpg);
+ background-size: cover;
+  margin-left: 614px;
+ margin-top: 202px;
+ background-color: rgb(27, 179, 148);
+ 
+ 
+ 
+}
+form {
+    border: 1px solid rgb(181, 16, 16);
+    border-radius: 10px;
+    position: absolute; 
+    padding: 11px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/570/725/small_2x/1025.jpg);
+    border-color: rgb(17, 88, 194);
+    color: white;
+    
+   
+    
+
+    /* border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    position: absolute;
+    padding: 11px;
+    background-color: azure;
+    border-color: aqua; */
+
+
+
+}
+input{
+width: 60%;
+padding: 5px;
+margin: 5px;
+border: none;
+color:black;
+
+
+
+
+
+
+}
+button {
+    background-color: rgb(233, 236, 246);
+    cursor: pointer;
+    margin: 10px;
+    padding: 5px;
+    border: 5px;
+    border-radius: 5px;
+    margin-left: 55px;
+
+}
+button:hover {
+    background-color: #262389;
+  }
+
+#label{
+    transform: rotate(360 deg);
+    transition: 10s;
+    color: white;
+    
+}
+
+#RememberMe{
+    background-color: black;
+    margin-left: 20px;
+    font-family: Ebrima;
+}
+.rem{
+    margin-left: -72px;
+
+}
+.che{
+    margin-left: -69px;
+    margin-top: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.pas  {
+    margin-left: 5px;
+    padding-top: 16px;
+    color: white;
+    transform-style: unset;
+    
+    
+
+}
+.acc{
+    margin-left: 13px;
+    margin-top: 10px;
+    color:white;
+}
+h1{
+    text-align: center;
+    size: 20px;
+    color: white;
+    font-family: Apple Chancery, cursive;
+    
+}
+.pas :hover{
+    color:black;
+    background:white;
+}
+
+.acc:hover {
+    color: blue;
+
+  }
+ .pas:hover {
+    color: blue;
+  }
+hr{
+    size: 1px;
+    padding: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 24px;
+}
